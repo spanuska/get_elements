@@ -1,7 +1,8 @@
 Welcome to the get_random_elements 3 ways code challenge!
 
-THE CHALLENGE
-The given environment is built out in lines 8-18 and includes...
+-------------- THE CHALLENGE
+
+The given environment is built out in lines 4-14 and includes...
 	 An array (referenced here as "mystery_array"), containing an unknown  of elements
 	 A get_element method that will return the next element in mystery_array
 
@@ -12,7 +13,8 @@ The given environment is built out in lines 8-18 and includes...
    Part 3: Create a method that returns a random element from mystery array
      by only looping once
     
-INSTRUCTIONS
+-------------- INSTRUCTIONS
+
 To run the file in the command line, first fork this repo and navigate to the 
 get_elements directory, which contains get_elements.rb. Open a repl such as irb 
 or pry and require 'get_element.rb'.  Note that you will need to provide the 
